@@ -1,0 +1,27 @@
+Topic - VSCode - Snippets
+Developing with Visual Studio Code
+-------------------------------------------------
+2.3 - Code Snippets
+
+-- this shows what a snippet is and how to add it to code 
+-- this does not demo the process of creating snippets
+
+-- demo uses TypeScript built in snippet
+-- ctor - constructor
+-- adds placeholders - substitution parameters
+
+-- intellisense recognizes
+-- Tab to complete
+
+-------------------------------------------------
+2.5 - Snippets - Location
+
+-- demo this shows Mac location
+-- find windows snippet location
+-- open .json with VSCode
+-- read/edit?
+
+-------------------------------------------------
+
+
+

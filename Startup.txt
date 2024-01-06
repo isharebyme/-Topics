@@ -1,0 +1,110 @@
+Topic - VSCode - Get Started 
+Developing with Visual Studio Code
+-------------------------------------------------
+
+0.2 - Get Started
+1.2 - Sidebar Panel
+1.3 - Menus
+1.4 - Folders vs. Project focus
+1.1 - TypeScript Config
+2.1 - Intellisense Errors
+
+-------------------------------------------------
+0.2 Get Started with Visual Studio Code
+
+-- download - visualstudio.com 
+-- dbl-click to install
+
+-- open a project folder - cmd line
+-- cd project folder - code . 
+
+-- R-click folder in Explorer - open with VCode
+
+-- Ctrl + Shift + P - command pallete
+
+-------------------------------------------------
+Sidebar Panel 
+
+-- gui tour - sidebar tabs
+-- toggle - open/close
+
+-- Explorer tab - show/hide files of type
+-- add/manage files
+
+-- Search - find text in files
+-- searches all project files
+-- click in search results to link to doc
+
+-- Source Control 
+-- can initialize repos
+-- can publish to github
+-- publish creates a private repos - but files?
+-- need more on this - see LN courses
+
+-- Debug
+-- breakpoints and watch statements, etc.
+
+-- Extensions
+-- review best extensions for web dev
+
+-------------------------------------------------
+1.3 Menus - GUI Tour
+
+-- basic menu tour 
+-- do detailed deep dive - menu review
+-- see Help exmaple - below
+
+-------------------------------------------------
+
+-- Help/Welcome - open starting welcome screen
+-- Help/Docs - link to MS Get Started site
+-- Help/Interactive Playground - a list of features that can be explored/edited 
+-- Help/Release Notes
+-- Help/Keyboard Shortcuts - opens .pdf 
+-- Help/Intro Videos - link
+-- Help/Tips - link
+-- Help/Channel - https://www.youtube.com/@code
+-- Help/Dev tools - opens a dev tools enviro for current page
+-- and others - including - check version / updates 
+
+-------------------------------------------------
+1.4 - Folders
+
+-- VSCode is folder based 
+-- vs. project based - VStudio
+
+-------------------------------------------------
+1.1 - TypeScript Config
+
+-- create TypeScript json.config file
+-- copy from docs - no exfiles
+
+-- https://code.visualstudio.com/docs/languages/typescript
+-- save in project folder as json.config
+
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "sourceMap": true
+    }
+}
+
+-- to enable typescript
+-- create a new file - ./project/json.config
+
+-- see - TypeScript Essential Training 
+
+-------------------------------------------------
+2.1 - Intellisense Errors 
+
+-- code-time error fixing - red squigglies
+-- hover over red squigglies for help
+-- intelli-sense suggests correction needed
+-- and edit for popup param/options 
+
+
+-------------------------------------------------
+
+
+

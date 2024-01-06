@@ -1,0 +1,38 @@
+Topic - VSCode - Debug
+Developing with Visual Studio Code
+-------------------------------------------------
+2.4 - Debugging in Visual Studio Code
+
+-- demo - create new project folder
+-- open in VCode - code .
+
+-- create new JS file - app.js
+-- var msg = "Hello"; 
+-- console.log(msg);
+
+-- run in terminal 
+-- node app.js	
+
+--[ this is big solution - run JS as standalone apps 
+--[ runs like any other programming application 
+--[ directly from the command line 
+
+-- open debug side panel in VCode
+-- Variables, Watch, Call Stack, BreakPoints 
+-- others can be added - extensions
+
+-- add a breakpoint - click in gutter - left side of line nums 
+-- run using debug toolbar - installs dependencies 
+-- runs in internal server/terminal window
+
+-- stop - add new line - msg = "Goodbye";
+-- and write to console
+-- add a second breakpoint - run debug
+-- click watch +plus to add variable
+
+-------------------------------------------------
+
+
+
+
+

@@ -1,0 +1,19 @@
+Topic - VSCode - Preferences
+Developing with Visual Studio Code
+-------------------------------------------------
+3.1 - Preferences
+
+-- File/Preferences/Settings
+-- customize VSCode appearance
+-- use Search bar at top
+-- search for any setting
+
+-- User and Workspace - top tabs 
+-- User settings override Workspace settings
+-- Workspace settings are defaults - oob
+-- and shows 'modified in user' if changed
+
+--------------------------------------
+
+
+

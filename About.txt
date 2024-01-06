@@ -1,0 +1,43 @@
+Topic - VSCode - About
+Developing with Visual Studio Code
+-------------------------------------------------
+
+0.0 -- Cover
+0.1 -- Welcome
+0.2 -- Setup
+5.1 -- Next Steps
+
+-------------------------------------------------
+Cover:
+
+-- Visual Studio Code is one of the most popular editors around. 
+-- knowing how to use it can save a lot of time during development. 
+
+-- this course is a comprehensive introduction to Visual Studio Code, 
+-- including the basics to write, run, and debug code in a variety of languages. 
+
+-- covers how to use the features and menus, 
+-- find errors, make selections, use snippets, 
+-- set user preferences and keybindings, 
+-- and use the built-in support for version control. 
+
+-------------------------------------------------
+Topics include:
+
+-- Exploring the features and menus
+-- Using snippets
+-- Debugging
+-- Options and preferences
+-- Version control
+ 
+-------------------------------------------------
+0.1 Welcome
+
+-- free, powerful, and cross-platform 
+-- lightweight yet powerful
+-- supports multiple languages
+-- highly extensible - community driven
+
+-------------------------------------------------
+
+-------------------------------------------------

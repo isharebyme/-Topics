@@ -1,0 +1,71 @@
+Topic - VSCode - Git/GitHub
+Developing with Visual Studio Code
+-------------------------------------------------
+
+4.1 - Setting up a local repository
+4.2 - Connect to a remote repository
+4.3 - Committing new, modified, and deleted files
+
+-------------------------------------------------
+4.1 - Setting up a local repository - Git
+
+-- VSCode knows how to work with local repositories
+-- can add/stage files, commit files, free files, roll back commits, and so forth
+
+-- install git - git-scm.com. 
+
+-- activate in VSCode
+-- open Source control panel - left side panel
+
+-- click Initialize Repository button
+-- init project directory 
+
+-- shows a green U - unknown 
+-- git does not know about this file
+-- click the +plus sign to add to staging area
+
+-- click the checmark - Commit button
+-- prompts to automatically stage/commit files
+-- this allows working without intermediate staging area
+-- say ok
+
+-- open menu - elipses
+-- Stage All Changes.
+
+-- use + to add to staging
+-- use - to remove from staging
+-- use check mark to commit
+-- add message for commit
+
+-- commit adds to .git folder
+-- set option to view hidden folders
+
+-------------------------------------------------
+4.2 - Connect to a remote repository
+
+-- demo uses Bitbucket vs. GitHub
+-- same/similar to connect to GitHub
+
+-------------------------------------------------
+4.3 - Committing new, modified, and deleted files
+
+-- demo walkthrough of making changes
+
+-- add new file
+-- shows U-icon - unstaged
+-- click the +plus signe to add to staging
+-- changes to an A-icon
+-- push
+
+-- deleting duplicates
+-- D-icons for deleted
+
+-------------------------------------------------
+
+
+
+
+
+
+
+

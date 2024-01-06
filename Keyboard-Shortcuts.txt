@@ -1,0 +1,29 @@
+Topic - VSCode - Keyboard Shortcuts
+Developing with Visual Studio Code
+-------------------------------------------------
+3.2 - Keyboard Shortcuts
+
+-- walkthrough of keybindings dialog
+-- can edit and add keybindings
+
+-- File, Preferences, Keyboard Shortcuts
+-- opens an extensive display of all keybindings
+-- or - Ctrl+K, Ctrl+S
+
+-- can also search in command pallet
+
+-- explore shortcut bindings to find new options
+-- can also search for shortcuts - F12
+
+-- scroll list - shows pencil where a binding exists
+-- click pencil to edit
+
+-- some are blank - can add custom keyboard binding
+-- click +sign beside command - opens keybinding dialog
+-- enter keyboard combination - press enter
+
+-------------------------------------------------
+
+
+
+

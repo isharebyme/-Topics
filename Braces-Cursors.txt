@@ -1,0 +1,29 @@
+Topic - VSCode - Bracket Matching / Multiple Cursors
+Developing with Visual Studio Code
+-------------------------------------------------
+2.2 Bracket matching and cursors
+
+-- open command pallete - Ctrl + Shift + P 
+-- enter Bracket - Select to Bracket
+
+-- Ctrl + Shift + \
+-- toggles between onpen and closing brace
+
+-------------------------------------------------
+
+-- create multiple non-adjacent cursors
+-- select a word - highlights throughout the document
+-- press Ctrl + F2 - adds a cursor beside each of the highlighted words
+
+-- same as - Ctrl + Shift + L 
+-- locate - match all - and adds a curor
+
+-- Alt + Shift + Click 
+-- Ctrl + Alt + up/dn arrow key
+-- create continusously constrained multiple cursors
+
+-------------------------------------------------
+
+
+
+

@@ -1,0 +1,35 @@
+VSCode - Horizontal Split
+-------------------------------------------------
+
+-- did Microsoft do away with the horizontal split in VSCode?
+-- could not find the icons
+
+-- Ctrl + \ - split right
+-- R-click - Split - Up. Down. Left, Right
+-- Ctrl + 1, Ctrl + 2, Ctrl + 3, etc
+
+-------------------------------------------------
+
+No, Microsoft has not done away with the horizontal split in Visual Studio Code. You can split the editor horizontally by using certain commands or keyboard shortcuts. 
+
+To split the screen horizontally, you can use the Ctrl + \ shortcut². If you need to change the editor split layout from horizontal to vertical or vice versa, you can use Alt + Shift + 0 on Windows and Linux, or Cmd ⌘ + Option ⌥ + 0 on macOS¹.
+
+You can also switch between the split window panes using Ctrl + 1, Ctrl + 2, Ctrl + 3, etc. on Windows and Linux, or Cmd + 1, Cmd + 2, Cmd + 3, etc. on macOS¹.
+
+As of March 2023, VSCode 1.77 offers a new contextual menu directly on the empty editor tabs space, from which you can trigger a horizontal or vertical split³. 
+
+Please note that these instructions are based on the information available as of my last update in 2021, and the actual commands or shortcuts may vary depending on the version of VSCode you are using. You may want to check the official VSCode documentation or help resources for the most up-to-date information.
+
+-------------------------------------------------
+Source: Conversation with Bing, 2024-01-05
+
+(1) How do you split the screen horizontally in Visual Studio code?. https://thequickadvisor.com/how-do-you-split-the-screen-horizontally-in-visual-studio-code/.
+(2) VS Code: Split the editor Vertically or Horizontally | bobbyhadz. https://bobbyhadz.com/blog/vscode-split-editor-vertical-and-switch-between-split-screens.
+(3) Visual Studio Code horizontal and vertical split - Stack Overflow. https://stackoverflow.com/questions/49281435/visual-studio-code-horizontal-and-vertical-split.
+(4) Support to split editors horizontally · Issue #1749 · microsoft/vscode. https://github.com/microsoft/vscode/issues/1749.
+
+-------------------------------------------------
+
+
+
+
